@@ -16,8 +16,7 @@
 const JAGMOLAR = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Node, Angular, Storybook, Styled-Components, Laravel],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Node, Angular, Styled-Components, Laravel],
   
   challenge: "Learn, enjoy , learn"
 }
