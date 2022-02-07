@@ -25,7 +25,7 @@ const JAGMOLAR = {
   Que no te engañe ese gato tan elegante de la imagen de perfil. <b>Mr. Shrodinguer</b>, además de elegante, es curioso y apasionado por naturaleza, y tiene bigote como yo. <b>JagMolar</b>, es un nombre de usuario que esconde mi nombre real : <b>Juan Antonio García Muelas</b>. 
 </p> 
   <p align="left">
-  Llevo muchos años dedicado al diseño, pero hace unos pocos que decidí volcarme en el diseño web y <br />  en el mundo de los lenguajes de programación. Desde entonces, intento formarme y practicar en cada ocasión que tengo, investigando los fracasos y disfrutando de los buenos resultados. 
+  Llevo muchos años dedicado al diseño, pero hace unos pocos que decidí volcarme en el diseño web y en el mundo de los lenguajes de programación. Desde entonces, intento formarme y practicar en cada ocasión que tengo, investigando los fracasos y disfrutando de los buenos resultados. 
 </p>
 
 
