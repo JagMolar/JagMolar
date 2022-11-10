@@ -22,10 +22,13 @@ const JAGMOLAR = {
 }
 ```
 <p align="left"><img src="https://repository-images.githubusercontent.com/288677863/24a25e00-e216-11ea-971b-b62dea14b560" width="200" align="right" />
-  Que no te engañe ese gato tan elegante de la imagen de perfil. <b>Mr. Shrodinguer</b>, además de elegante, es curioso y apasionado por naturaleza, y tiene bigote como yo. <b>JagMolar</b>, es un nombre de usuario que esconde mi nombre real : <b>Juan Antonio García Muelas</b>. 
+  Que no te engañe ese gato tan elegante de la imagen de perfil. <b>Mr. Shrodinger</b>, además de elegante, es curioso y apasionado por naturaleza, y tiene bigote como yo. <b>JagMolar</b>, es un nombre de usuario que esconde mi nombre real : <b>Juan Antonio García Muelas</b>. 
 </p> 
-  <p align="left">
+<p align="left">
   Llevo muchos años dedicado al diseño, pero hace unos pocos que decidí volcarme en el diseño web y en el mundo de los lenguajes de programación. Desde entonces, intento formarme y practicar en cada ocasión que tengo, investigando los fracasos y disfrutando de los buenos resultados. 
+</p>
+<p align="left">
+Sabiendo lo complejo de esta formación, entre mis repositorios, encontrarás también muchos de los ejercicios que he ido realizando durante mi formación, y que espero puedan ser de apoyo y ayuda a los estudiantes del presente. 
 </p>
 
 
