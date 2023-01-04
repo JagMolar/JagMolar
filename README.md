@@ -5,6 +5,11 @@
     <img src="https://media.giphy.com/media/gK6PMs5BOnLIE2QCtU/giphy.gif" width="30">
   </em>
 </p>
+<p>
+  <em>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
+    <img src="https://media.giphy.com/media/gK6PMs5BOnLIE2QCtU/giphy.gif" width="30">
+  </em>
+</p>
 
 [![Linkedin: JagMolar](https://img.shields.io/badge/-juanantoniogarciamuelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniogarciamuelas)](https://www.linkedin.com/in/juanantoniogarciamuelas)
 [![GitHub JagMolar](https://img.shields.io/github/followers/JagMolar?label=follow&style=social)](https://github.com/JagMolar)
@@ -34,7 +39,7 @@ Sabiendo lo complejo de esta formación, entre mis repositorios, encontrarás ta
 
 
 
-🌐 <em><b>Puedes conocer mucho más en </b> <a href="https://juanantoniogarciamuelas.herokuapp.com/" target="blank">mi web</a> <b>. Espero que te guste!!</b> :)</em>
+🌐 <em><b>Puedes conocer mucho más en </b> <a href="https://jagmolar.github.io/Jagmolar.site/" target="blank">mi web</a> <b>. Espero que te guste!!</b> :)</em>
 
 ---
 
