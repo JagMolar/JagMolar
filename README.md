@@ -2,8 +2,7 @@
 
 <p>
   <em>Máster Profesional en Inteligencia Artificial y Big Data.
-    <img src="https://media.giphy.com/media/gK6PMs5BOnLIE2QCtU/giphy.gif" width="30">
-    <iframe src="https://giphy.com/embed/cDtZWTlFWUeac4ftHE" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <img src="https://media.giphy.com/media/NtDKSysSF27UkXsib8/giphy.gif" width="30">
   </em>
 </p>
 
