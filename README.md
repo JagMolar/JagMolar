@@ -1,10 +1,18 @@
 ### <h2>👋 Bienvenido a mi perfil. Soy Jag Molar <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"></h2>
 
 <p>
+  <em>Máster Profesional en Inteligencia Artificial y Big Data.
+    <img src="https://media.giphy.com/media/gK6PMs5BOnLIE2QCtU/giphy.gif" width="30">
+    <iframe src="https://giphy.com/embed/cDtZWTlFWUeac4ftHE" width="30" height="30" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  </em>
+</p>
+
+<p>
   <em>Técnico Superior en Desarrollo de Aplicaciones Web.
     <img src="https://media.giphy.com/media/gK6PMs5BOnLIE2QCtU/giphy.gif" width="30">
   </em>
 </p>
+
 <p>
   <em>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
     <img src="https://media.giphy.com/media/gK6PMs5BOnLIE2QCtU/giphy.gif" width="30">
