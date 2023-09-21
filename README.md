@@ -20,7 +20,9 @@
 
 [![Linkedin: JagMolar](https://img.shields.io/badge/-juanantoniogarciamuelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniogarciamuelas)](https://www.linkedin.com/in/juanantoniogarciamuelas)
 [![GitHub JagMolar](https://img.shields.io/github/followers/JagMolar?label=follow&style=social)](https://github.com/JagMolar)
-
+[![Web](https://img.shields.io/badge/Web-JagMolar-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://juanantoniogarciamuelas.es)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juangmuelas@gmail.com)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jagmolar)
 
 ### <img src="https://media.giphy.com/media/eNA1tWKSfe3C4lyrTx/giphy.gif" width="50"> Conóceme...  
 
@@ -47,7 +49,7 @@ Sabiendo lo complejo de esta formación, entre mis repositorios, encontrarás ta
 
 
 
-🌐 <em><b>Puedes conocer mucho más en </b> <a href="https://jagmolar.github.io/Jagmolar.site/" target="blank">mi web</a> <b>. Espero que te guste!!</b> :)</em>
+🌐 <em><b>Puedes conocer mucho más en </b> <a href="https://juanantoniogarciamuelas.es" target="blank">mi web</a> <b>. Espero que te guste!!</b> :)</em>
 
 ---
 
