@@ -33,8 +33,9 @@ const JAGMOLAR = {
   challenge: "Learn, enjoy , learn"
 }
 ```
-<p align="left"><!-- <img src="https://repository-images.githubusercontent.com/288677863/24a25e00-e216-11ea-971b-b62dea14b560" width="200" align="right" /> -->
-  <img src="https://github.com/JagMolar/Jagmolar.site/blob/master/images/juanremovebg2607.png" width="200" align="right" />
+<p align="left"><!-- <img src="https://repository-images.githubusercontent.com/288677863/24a25e00-e216-11ea-971b-b62dea14b560" width="200" align="right" /> 
+  <img src="https://github.com/JagMolar/Jagmolar.site/blob/master/images/juanremovebg2607.png" width="200" align="right" />-->
+  <img src="./Perfil-0823-fondo-circ.png" width="200" align="right" />
   Que no te engañe ese gato tan elegante de la imagen de perfil. <b>Mr. Shrodinger</b>, además de elegante, es curioso y apasionado por naturaleza, y tiene bigote como yo. <b>JagMolar</b>, es un nombre de usuario que esconde mi nombre real : <b>Juan Antonio García Muelas</b>. 
 </p> 
 <p align="left">
