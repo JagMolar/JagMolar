@@ -1,6 +1,12 @@
 ### <h2>👋 Bienvenido a mi perfil. Soy Jag Molar <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50"></h2>
 
 <p>
+  <em>Máster Profesional en Ciberseguridad en Entornos de las Tecnologías de la Información.
+    <img src="https://media.giphy.com/media/NtDKSysSF27UkXsib8/giphy.gif" width="30">
+  </em>
+</p>
+
+<p>
   <em>Máster Profesional en Inteligencia Artificial y Big Data.
     <img src="https://media.giphy.com/media/NtDKSysSF27UkXsib8/giphy.gif" width="30">
   </em>
