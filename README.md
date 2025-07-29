@@ -4,32 +4,30 @@
   <em>Máster Profesional en Ciberseguridad en Entornos de las Tecnologías de la Información.
     <img src="https://media.giphy.com/media/NtDKSysSF27UkXsib8/giphy.gif" width="30">
   </em>
-</p>
-
-<p>
+<br>
   <em>Máster Profesional en Inteligencia Artificial y Big Data.
     <img src="https://media.giphy.com/media/NtDKSysSF27UkXsib8/giphy.gif" width="30">
   </em>
-</p>
-
-<p>
+<br>
   <em>Técnico Superior en Desarrollo de Aplicaciones Web.
     <img src="https://media.giphy.com/media/gK6PMs5BOnLIE2QCtU/giphy.gif" width="30">
   </em>
-</p>
-
-<p>
+<br>
   <em>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
     <img src="https://media.giphy.com/media/gK6PMs5BOnLIE2QCtU/giphy.gif" width="30">
   </em>
 </p>
 
-[![Linkedin: JagMolar](https://img.shields.io/badge/-juanantoniogarciamuelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniogarciamuelas)](https://www.linkedin.com/in/juanantoniogarciamuelas)
+<p><b><em>Docente tecnológico FPE👨‍🏫</em></b></p>
+
 [![GitHub JagMolar](https://img.shields.io/github/followers/JagMolar?label=follow&style=social)](https://github.com/JagMolar)
+![GitHub User's stars](https://img.shields.io/github/stars/jagmolar)
+
+[![LinkedIn:JagMolar](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniogarciamuelas)](https://www.linkedin.com/in/juanantoniogarciamuelas)
 [![Web](https://img.shields.io/badge/Web-JagMolar-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://juanantoniogarciamuelas.es)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juangmuelas@gmail.com)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jagmolar)
-
+<!-- [![Linkedin: JagMolar](https://img.shields.io/badge/-juanantoniogarciamuelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniogarciamuelas)](https://www.linkedin.com/in/juanantoniogarciamuelas)-->
 ### <img src="https://media.giphy.com/media/eNA1tWKSfe3C4lyrTx/giphy.gif" width="50"> Conóceme...  
 
 ```javascript
@@ -50,7 +48,7 @@ const JAGMOLAR = {
   Llevo muchos años dedicado al diseño, pero hace unos pocos que decidí volcarme en el diseño web y en el mundo de los lenguajes de programación. Desde entonces, intento formarme y practicar en cada ocasión que tengo, investigando los fracasos y disfrutando de los buenos resultados. 
 </p>
 <p align="left">
-Sabiendo lo complejo de esta formación, entre mis repositorios, encontrarás también muchos de los ejercicios que he ido realizando durante mi formación, y que espero puedan ser de apoyo y ayuda a los estudiantes del presente. 
+Sabiendo lo complejo de esta formación, entre mis repositorios, encontrarás también muchos de los ejercicios que he ido realizando durante mi formación, y que espero puedan ser de apoyo y ayuda a los estudiantes del presente y del futuro, a los que en algunos casos, tengo como curiosos alumnos dentro de las formaciones de FPE que imparto. 
 </p>
 
 
