@@ -61,7 +61,7 @@ Sabiendo lo complejo de esta formación, entre mis repositorios, encontrarás ta
 
 ---
 -<p align="center">
-![My GitHub Game](https://github.com/JagMolar/BasicOne/blob/master/docs/img/main/github-space-shooter.gif)
+![My GitHub Game](https://github.com/JagMolar/BasicOne/blob/master/docs/img/main/jagmolar-space-shooter.gif?raw=true)
 -</p>
 
 ⭐️ From [@JagMolar](https://github.com/JagMolar)
